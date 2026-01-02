@@ -2,4 +2,4 @@ This is a mod for the PC game, Balatro. Its purpose is to level up the poker han
 
 In the mod's configuration options, you can choose how many times a hand must be played before it levels up. If you check the "Exponential" option, the required number of hands will increase by 1 every time a level-up is earned through this mod.
 
-To install, simply download the folder and place it in the mods folder. For Windows this should be at: C:\Users\(Username Here)\AppData\Roaming\Balatro\Mods\
+To install, simply download the folder (Click the green "Code" button and then click "Download ZIP") and place it in the mods folder. For Windows this should be at: C:\Users\(Username Here)\AppData\Roaming\Balatro\Mods\
